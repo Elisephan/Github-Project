@@ -53,7 +53,7 @@ No known bugs at the moment.
 
 For any question, comment or suggestion please reach out to me on this email: elise.ntakirutimana@gmail.com
 
-- github-username: kclaudine
+- github-username: Elisephan
 
 ## License
 

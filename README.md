@@ -26,7 +26,7 @@ To work with GitSearch you need to have some few prerequisites.
 
 This include the following mentioned below.
 
-- Node.j
+- Node.js
 
 - Angular-JS framework
 

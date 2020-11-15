@@ -22,7 +22,7 @@ GitHub API was used to retrieve this information. This API allows **5,000** requ
 
 ## Prerequisities
 
-To work with GitSearch you need to have some few prerequisites.
+To work with Github project you need to have some few prerequisites.
 
 This include the following mentioned below.
 

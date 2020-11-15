@@ -57,6 +57,6 @@ For any question, comment or suggestion please reach out to me on this email: cl
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT Licens
 
 Copyright (c) 2020

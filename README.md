@@ -1,27 +1,62 @@
 # GithubProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+## Author
 
-## Development server
+[Elisephan Ntakirutimana](https://github.com/Elisephan/Github-Project.git)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+This is a **Github project** application that searches for user and displays their profile info using the **_Github API._**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This is a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.
 
-## Build
+GitHub API was used to retrieve this information. This API allows **5,000** requests per hour with an API key, but only 60 requests per hour _without_ one.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## User Stor
 
-## Running unit tests
+- Users can enter Github user info info a form and submit it.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Users can see names and descriptions of person's public repositories.
 
-## Running end-to-end tests
+- Users can make up to 5000 requests per hour due to Github-API integration.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+# Prerequisites
 
-## Further help
+To work with GitSearch you need to have some few prerequisites.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This include the following mentioned below.
+
+- Node.js
+
+- Angular-JS framework
+
+- Typescript
+
+- Terminal
+
+If you dont have this requirements you could use the link above to help with the installation guide.
+
+## Known Bugs
+
+No known bugs at the moment.
+
+## Technologies used
+
+- HTML
+- CSS
+- Angular
+- Bootstrap
+- Angular CLI
+- Type Script
+
+## Support and Contact
+
+For any question, comment or suggestion please reach out to me on this email: claudinekuradusenge2@gmail.com
+
+- github-username: kclaudine
+
+## License
+
+This project is licensed under the MIT License
+
+Copyright (c) 2020

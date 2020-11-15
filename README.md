@@ -51,7 +51,7 @@ No known bugs at the moment.
 
 ## Support and Contact
 
-For any question, comment or suggestion please reach out to me on this email: elise.ntakirutimana@gmail.com
+For any question, comment or suggestion please reach out to me on this email: elise.ntakirutimana@gmail.c
 
 - github-username: Elisephan
 

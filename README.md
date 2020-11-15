@@ -1,6 +1,6 @@
 # GithubProject
 
-## Autho
+## Author
 
 [Elisephan Ntakirutimana](https://github.com/Elisephan/Github-Project.git)
 

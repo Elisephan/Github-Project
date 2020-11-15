@@ -40,7 +40,7 @@ If you dont have this requirements you could use the link above to help with the
 
 No known bugs at the moment.
 
-## Technologies use
+## Technologies used
 
 - HTML
 - CSS
